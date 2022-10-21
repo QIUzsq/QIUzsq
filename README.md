@@ -1,2 +1,1 @@
-Hello ! :yum:
-
+Hello ! :wave:
